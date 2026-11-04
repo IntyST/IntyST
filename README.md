@@ -131,6 +131,10 @@ My academic training provided a foundation in programming, databases, web develo
 - Exploring new tools and technologies through hands-on projects.
 - Improving my technical English and communication skills.
 
+### :zap: Actividad reciente
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:end-->
 ---
 
 <sub>Building skills through practice. Improving with every project.</sub>
