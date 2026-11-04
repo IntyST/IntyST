@@ -131,7 +131,7 @@ My academic training provided a foundation in programming, databases, web develo
 - Exploring new tools and technologies through hands-on projects.
 - Improving my technical English and communication skills.
 
-### :zap: Actividad reciente
+### :zap: My recent activity
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)<br>
 2. ⬆️ Pushed undefined commit(s) to [IntyST/intyst.github.io](https://github.com/IntyST/intyst.github.io)<br>
