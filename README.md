@@ -133,11 +133,11 @@ My academic training provided a foundation in programming, databases, web develo
 
 ### :zap: My recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)<br>
-2. ⬆️ Pushed undefined commit(s) to [IntyST/intyst.github.io](https://github.com/IntyST/intyst.github.io)<br>
-3. ⬆️ Pushed undefined commit(s) to [IntyST/prueba_ssh](https://github.com/IntyST/prueba_ssh)<br>
-4. ⬆️ Pushed undefined commit(s) to [IntyST/prueba_ssh](https://github.com/IntyST/prueba_ssh)<br>
-5. ⬆️ Pushed undefined commit(s) to [IntyST/prueba_ssh](https://github.com/IntyST/prueba_ssh)<br>
+1. ⭐ Starred [platzi/retos-javascript-fundamentos](https://github.com/platzi/retos-javascript-fundamentos)<br>
+2. ⬆️ Pushed undefined commit(s) to [IntyST/IntyST](https://github.com/IntyST/IntyST)<br>
+3. ✌️ Released [v0.1.0](https://github.com/IntyST/tercer_repo/releases/tag/v0.1.0) in [IntyST/tercer_repo](https://github.com/IntyST/tercer_repo)<br>
+4. ⬆️ Pushed undefined commit(s) to [IntyST/IntyST](https://github.com/IntyST/IntyST)<br>
+5. 💪 Opened PR [#3](undefined) in [IntyST/mi_cuarto_repo](https://github.com/IntyST/mi_cuarto_repo)<br>
 <!--RECENT_ACTIVITY:end-->
 ---
 
