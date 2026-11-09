@@ -134,10 +134,10 @@ My academic training provided a foundation in programming, databases, web develo
 ### :zap: My recent activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [IntyST/curso_fundamentos_javascript](https://github.com/IntyST/curso_fundamentos_javascript)<br>
-2. ⭐ Starred [platzi/react-js](https://github.com/platzi/react-js)<br>
-3. ⬆️ Pushed undefined commit(s) to [IntyST/mi_cuarto_repo](https://github.com/IntyST/mi_cuarto_repo)<br>
-4. ⭐ Starred [platzi/retos-javascript-fundamentos](https://github.com/platzi/retos-javascript-fundamentos)<br>
-5. ⬆️ Pushed undefined commit(s) to [IntyST/IntyST](https://github.com/IntyST/IntyST)<br>
+2. ⬆️ Pushed undefined commit(s) to [IntyST/curso_fundamentos_javascript](https://github.com/IntyST/curso_fundamentos_javascript)<br>
+3. ⭐ Starred [platzi/react-js](https://github.com/platzi/react-js)<br>
+4. ⬆️ Pushed undefined commit(s) to [IntyST/mi_cuarto_repo](https://github.com/IntyST/mi_cuarto_repo)<br>
+5. ⭐ Starred [platzi/retos-javascript-fundamentos](https://github.com/platzi/retos-javascript-fundamentos)<br>
 <!--RECENT_ACTIVITY:end-->
 ---
 
